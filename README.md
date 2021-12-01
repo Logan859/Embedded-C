@@ -424,9 +424,9 @@ Table of content
 
 ## OTHER
 
-https://microcontrollerslab.com/what-is-interrupt-vector-table/
-https://microcontrollerslab.com/microcontrollers-startup-file-arm-cortex-m4-mcu/
-https://microcontrollerslab.com/nested-vectored-interrupt-controller-nvic-arm-cortex-m/
-https://microcontrollerslab.com/interrupt-processing-arm-cortex-m-microcontrollers/
-https://microcontrollerslab.com/microcontroller-memory-organization-types-memory-segments/
-https://microcontrollerslab.com/embedded-systems-build-process-using-gnu-toolchain/
+* [Interrupt Vector Table](https://microcontrollerslab.com/what-is-interrupt-vector-table/)
+* [MCU Startup File](https://microcontrollerslab.com/microcontrollers-startup-file-arm-cortex-m4-mcu/)
+* [NVIC in Arm Cortex](https://microcontrollerslab.com/nested-vectored-interrupt-controller-nvic-arm-cortex-m/)
+* [Interrupt Processing in Arm Cortex](https://microcontrollerslab.com/interrupt-processing-arm-cortex-m-microcontrollers/)
+* [Memory Organization ans Segments](https://microcontrollerslab.com/microcontroller-memory-organization-types-memory-segments/)
+* [Build Proccess with Toolchain](https://microcontrollerslab.com/embedded-systems-build-process-using-gnu-toolchain/)
