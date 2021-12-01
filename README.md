@@ -421,3 +421,12 @@ Table of content
 
 * [Mastering the Raspberry Pi](http://mensshed-llandudno.co.uk/wp-content/uploads/Mastering%20the%20Raspberry%20Pi.pdf)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+
+## OTHER
+
+https://microcontrollerslab.com/what-is-interrupt-vector-table/
+https://microcontrollerslab.com/microcontrollers-startup-file-arm-cortex-m4-mcu/
+https://microcontrollerslab.com/nested-vectored-interrupt-controller-nvic-arm-cortex-m/
+https://microcontrollerslab.com/interrupt-processing-arm-cortex-m-microcontrollers/
+https://microcontrollerslab.com/microcontroller-memory-organization-types-memory-segments/
+https://microcontrollerslab.com/embedded-systems-build-process-using-gnu-toolchain/
