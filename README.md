@@ -423,3 +423,16 @@ Table of content
 # Other Useful Repositories:
 
 https://github.com/Embedded-Systems-Guide
+
+
+## OTHER
+
+* [Interrupt Vector Table](https://microcontrollerslab.com/what-is-interrupt-vector-table/)
+* [MCU Startup File](https://microcontrollerslab.com/microcontrollers-startup-file-arm-cortex-m4-mcu/)
+* [NVIC in Arm Cortex](https://microcontrollerslab.com/nested-vectored-interrupt-controller-nvic-arm-cortex-m/)
+* [Interrupt Processing in Arm Cortex](https://microcontrollerslab.com/interrupt-processing-arm-cortex-m-microcontrollers/)
+* [Memory Organization ans Segments](https://microcontrollerslab.com/microcontroller-memory-organization-types-memory-segments/)
+* [Build Proccess with Toolchain](https://microcontrollerslab.com/embedded-systems-build-process-using-gnu-toolchain/)
+
+## Websites
+* [Electronics Hub](https://www.electronicshub.org/)
