@@ -1,8 +1,6 @@
 # Embedded-C
 A Workspace for Embedded C Codes Examples For Different Vendors
 
-# Other Useful Repositories:
-
 # Embedded
 
 A curated list of awesome embedded resource.
@@ -421,3 +419,7 @@ Table of content
 
 * [Mastering the Raspberry Pi](http://mensshed-llandudno.co.uk/wp-content/uploads/Mastering%20the%20Raspberry%20Pi.pdf)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+
+# Other Useful Repositories:
+
+https://github.com/Embedded-Systems-Guide
