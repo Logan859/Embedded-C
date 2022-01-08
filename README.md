@@ -436,3 +436,4 @@ https://github.com/Embedded-Systems-Guide
 
 ## Websites
 * [Electronics Hub](https://www.electronicshub.org/)
+* [EmbetronicX](https://embetronicx.com/)
