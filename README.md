@@ -199,42 +199,6 @@ Table of content
 * [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {book}](https://www.wiley.com/en-us/Exploring+Raspberry+Pi%3A+Interfacing+to+the+Real+World+with+Embedded+Linux-p-9781119188681)
 * [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {website}](http://exploringrpi.com/)
 
-## Beaglebone
-
-* [BeagleBone Black I2C References](https://datko.net/2013/11/03/bbb_i2c/)
-* [Learning BeagleBone Python Programming](https://hub.packtpub.com/learning-beaglebone-python-programming/)
-* [Simple implementation of an OS for the BeagleBoard C4 with ARMv7 A8 processor.](https://github.com/Oxydation/MinionOS)
-* [Various projects that utilize low level hardware instructions to interface with leds, speaker output and joystick input.](https://github.com/travelln/beaglebone-projects)
-* [Windows Embedded Compact BSP for TI's Beaglebone](https://github.com/dvescovi1/WECBeagleBone)
-* [BBB-BareMetal](https://github.com/allexoll/BBB-BareMetal)- Works on the beaglebone black (bare metal)
-* [Running a Baremetal Beaglebone Black](https://www.twosixlabs.com/running-a-baremetal-beaglebone-black-part-1/) & [Part 2](https://www.twosixlabs.com/running-a-baremetal-beaglebone-black-part-2/)
-* [Bare Metal on the BeagleBone (Black and Green)](https://www.cs.sfu.ca/CourseCentral/433/bfraser/other/BareMetalGuide.pdf) & [link1](https://www.cs.sfu.ca/CourseCentral/433/bfraser/other/) + [Link2](https://www.cs.sfu.ca/CourseCentral/433/bfraser/weekly.html)
-* [A tutorial on bare-metal [OS] development on the Texas Instruments BeagleBoard.](https://wiki.osdev.org/ARM_Beagleboard)
-* [bare metal c project for beaglebone, ti sitara am335x](https://github.com/0xCA5A/kickstart/tree/master/beaglebone/bare_metal_hello_world)
-* [Bare Metal Applications on OSD335x using U-Boot](https://octavosystems.com/app_notes/bare-metal-on-osd335x-using-u-boot/#_Toc382081430)
-* [bbb-asm-demo](https://github.com/mvduin/bbb-asm-demo) - Extremely tiny baremetal application for BeagleBone Black
-* [Beaglebone - Getting started with JTAG and CCS](https://beagleboard.org/static/beaglebone/latest/Docs/ccs-jtag-simple.htm)
-* [BeagleBoardJTAG](https://elinux.org/BeagleBoardJTAG)
-* [beaglebone_samples](https://github.com/dwelch67/beaglebone_samples)
-* [FreeRTOS for BeagleBone Black](https://github.com/henfos/BBBFreeRTOS)
-
-## Linux kernel and device driver development
-
-* [Linux inside](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
-* [Writing device drivers in Linux](http://freesoftwaremagazine.com/articles/drivers_linux/)
-* [YOLINUX Tutorials](http://www.yolinux.com/TUTORIALS/)
-* [Linux driver programming](https://sites.google.com/site/embedded247/ddcourse)
-* [Free training materials and conference presentations](https://bootlin.com/docs/)
-* [eBook: Linux Drivers](https://sysplay.github.io/books/LinuxDrivers/book/index.html) or [Slides: Linux Drivers](https://sysplay.in/index.php?pagefile=linux_drivers)
-* [c-periphery](https://github.com/vsergeev/c-periphery) - A C library for peripheral I/O (GPIO, SPI, I2C, MMIO, Serial) in Linux.
-* [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page),
-* [Linux driver practices ](https://github.com/starnight/DriverPractice)
-* [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) - A bunch of links related to Linux kernel exploitation
-* [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat)
-* [Start linux kernel module development!](https://rayanfam.com/topics/start-linux-kernel-module-development/)
-* [Minimal Linux Live](https://github.com/ivandavidov/minimal) - a tiny educational Linux distribution
-* [low-level programming university #linux-kernel-and-device-driver](https://github.com/gurugio/lowlevelprogramming-university#linux-kernel-and-device-driver)
-
 ## Assembly
 
 * [GCC-Inline-Assembly-HOWTO](https://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
