@@ -1,0 +1,9 @@
+[submodule "STM/Modbus/RTOS/STM32_HAL_FREEMODBUS_TCP"]
+	path = STM/Modbus/RTOS/STM32_HAL_FREEMODBUS_TCP
+	url = https://github.com/eziya/STM32_HAL_FREEMODBUS_TCP.git
+[submodule "STM/Modbus/RTOS/STM32_HAL_FREEMODBUS_RTU"]
+	path = STM/Modbus/RTOS/STM32_HAL_FREEMODBUS_RTU
+	url = https://github.com/eziya/STM32_HAL_FREEMODBUS_RTU.git
+[submodule "ESP/Modbus/liblightmodbus"]
+	path = ESP/Modbus/liblightmodbus
+	url = https://github.com/Jacajack/liblightmodbus.git
